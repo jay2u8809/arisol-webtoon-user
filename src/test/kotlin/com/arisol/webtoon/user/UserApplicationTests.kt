@@ -1,0 +1,13 @@
+package com.arisol.webtoon.user
+
+import org.junit.jupiter.api.Test
+import org.springframework.boot.test.context.SpringBootTest
+
+@SpringBootTest
+class UserApplicationTests {
+
+	@Test
+	fun contextLoads() {
+	}
+
+}
