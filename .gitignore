@@ -2,3 +2,9 @@
 .idea
 build
 gradle
+
+## docker container files
+pgdata
+
+## settings
+application-local.yml
